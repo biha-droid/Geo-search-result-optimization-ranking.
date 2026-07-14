@@ -1,6 +1,6 @@
 微信：ayoeyn
 
-# GEO 搜索结果优化排名系统
+# GEO 搜索引擎结果优化排名系统
 
 基于 PHP 7.3 + MySQL 的 AI 内容生成与 SEO 优化 SaaS 平台。
 
